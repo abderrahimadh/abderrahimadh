@@ -29,7 +29,6 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
@@ -41,5 +40,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/abderrahim-adhaour-079b39278/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Abderrahim%20ADHAOUR%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-abderrahimadh@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:abderrahimadh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abderrahimadh@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
