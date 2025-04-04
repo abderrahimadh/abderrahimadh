@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; I’m a computer science student.
 - 🤔 &nbsp; Exploring Cloud Architecture and DevOps.
-- 🌱 &nbsp; developing software solutions and learning more about Artificial Intelligence.
+- 🌱 &nbsp; learning more about Artificial Intelligence and developing software solutions.
 - 📫 How to reach me abderrahimadh@gmail.com
 
 <h3> 🛠 &nbsp;Tools</h3>
@@ -27,6 +27,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ⚙️ &nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
