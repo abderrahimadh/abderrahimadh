@@ -3,7 +3,7 @@
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🎓 &nbsp; I’m a computer science student.
-- 🤔 &nbsp; Exploring Cloud Architecture and DevOps and developing software solutions.
+- 🤔 &nbsp; Exploring Cloud Architecture and DevOps.
 - 🌱 &nbsp; developing software solutions and learning more about Artificial Intelligence.
 - 📫 How to reach me abderrahimadh@gmail.com
 
