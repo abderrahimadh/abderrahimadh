@@ -1,10 +1,10 @@
-<h1><p align="center">👋 Hey there! I'm ADHAOUR Abderrahim.</p></h1>
+<h1><p align="center">👋 Hey there! I'm Abderrahim ADHAOUR.</p></h1>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 - 🎓 &nbsp; I’m a computer science student.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🌱 &nbsp; Learning more about Cloud Architecture and Artificial Intelligence.
+- 🤔 &nbsp; Exploring Cloud Architecture and DevOps and developing software solutions.
+- 🌱 &nbsp; developing software solutions and learning more about Artificial Intelligence.
 - 📫 How to reach me abderrahimadh@gmail.com
 
 <h3> 🛠 &nbsp;Tools</h3>
