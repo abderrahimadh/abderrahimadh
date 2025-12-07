@@ -42,10 +42,12 @@ I'm a passionate **Cloud & DevOps Engineer**, currently sharpening my skills acr
 ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
 ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
-![AWS](https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg)
-![Azure](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/2560px-Microsoft_Azure_Logo.svg.png)
-![GCP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Yyu-X8Q9rvur3BTaHSf1XaRNbizBAZjFbA&s)
-![OVHCloud](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8pYDAm1Qu3_C6zX1IqsGx58ThG0paCBUQYg&s)
+
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=google-cloud)
+![OVHCloud](https://img.shields.io/badge/-OVHCloud-333333?style=flat&logo=ovh)
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
