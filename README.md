@@ -1,9 +1,6 @@
 <h1 align="center">🌟 Hi, I'm Abderrahim ADHAOUR</h1>
 <h3 align="center">Cloud & DevOps Engineer | Software Developer | Data & AI Explorer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abderrahim-adhaour&style=flat-square&color=blue" />
-</p>
 
 ---
 
@@ -66,28 +63,28 @@ I'm a passionate **Cloud & DevOps Engineer**, currently sharpening my skills acr
 
 ### ⭐ Streak Stats (officiel, fonctionne toujours)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abderrahim-adhaour&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=abderrahimadh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats (nouvelle URL stable)
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abderrahim-adhaour&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abderrahimadh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🧠 Top Languages (URL stable)
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abderrahim-adhaour&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abderrahimadh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📈 Activity Graph (version stable)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abderrahim-adhaour&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abderrahimadh&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
