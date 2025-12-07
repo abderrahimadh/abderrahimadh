@@ -63,21 +63,21 @@ I'm a passionate **Cloud & DevOps Engineer**, currently sharpening my skills acr
 
 ## 🔥 GitHub Stats
 
-### ⭐ Streak Stats (officiel, fonctionne toujours)
+### ⭐ Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abderrahimadh&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats (nouvelle URL stable)
+### 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abderrahimadh&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🧠 Top Languages (URL stable)
+### 🧠 Top Languages 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abderrahimadh&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
